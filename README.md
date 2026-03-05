@@ -5,7 +5,9 @@
   <img src="groc/logo.svg" width="400" alt="Amereistr Logo">
 </p>
 
-Amereistr（基于AquaMai）是由 AkiACG 团队独立维护的实验性 Mod 分支。.
+Amereistr（基于AquaMai）是由 AkiACG 团队独立维护的实验性 Mod 分支。
+
+本分支不代表本团队对原工程有任何敌对或不满，仅为自主维护的自有分支。
 
 所有的门都关闭了。我们只是在做着自认为正确的事情然后圈地自萌。
 
